@@ -1,0 +1,33 @@
+_repo: The-Penal-Cluster_25061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Telepathy -- Fiction'
+title: The Penal Cluster
+url: http://www.gutenberg.org/ebooks/25061
